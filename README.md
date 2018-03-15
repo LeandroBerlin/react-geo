@@ -1,6 +1,6 @@
 # React-Geo
 
-GeoPosition App exercise
+A Geoposition App exercise
 
 - Clone this repo
 
@@ -10,12 +10,17 @@ GeoPosition App exercise
 
 - When you're done, <App> should no longer have anything but a render method
 
-## Got extra time?
-
 - Now create a <GeoAddress> component that also uses a render callback with the current address. You will use `getAddressFromCoords(latitude, longitude)` to get the address, it returns a promise.
 
 - You should be able to compose <GeoPosition> and <GeoAddress> beneath it to naturally compose both the UI and the state needed to render it
 
-- Make sure <GeoAddress> supports the user moving positions
+
+## Bonus tasks
+
+- Split components and organize a better project structure
 
 - Fix soon-to-be deprecated method (16.3) ;)
+
+- Include Leaflet
+
+
