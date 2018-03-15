@@ -21,6 +21,6 @@ A Geoposition App exercise
 
 - Fix soon-to-be deprecated method (16.3) ;)
 
-- Include Leaflet
+- Include Leaflet.js -> http://leafletjs.com and add a map!
 
 
